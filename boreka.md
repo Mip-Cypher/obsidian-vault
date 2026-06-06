@@ -1,0 +1,4 @@
+PIXABAY_API_KEY
+PEXELS_API_KEY
+OpticCode
+![[Pasted image 20260603191659.png]]
